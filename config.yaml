@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: $DEPLOY_PRIME_URL
 languageCode: en-us
 title: Hugo Fresh Theme
 theme: hugo-fresh
