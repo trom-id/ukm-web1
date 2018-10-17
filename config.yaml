@@ -1,4 +1,4 @@
-baseURL: $DEPLOY_PRIME_URL
+baseURL: https://ukm-web1.netlify.com/
 languageCode: en-us
 title: Hugo Fresh Theme
 theme: hugo-fresh
